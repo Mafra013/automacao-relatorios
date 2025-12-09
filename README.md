@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>](https://pandas.pydata.org/)
 [<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>](https://www.microsoft.com/pt-br/microsoft-365/word)
 [<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>](https://www.microsoft.com/pt-br/microsoft-365/excel)
-[<img src="https://img.shields.io/badge/Automação-FF2D20?style=for-the-badge&logo=automation-anywhere&logoColor=white" alt="Automação"/>](https://www.automationanywhere.com/)
+<img src="https://img.shields.io/badge/Automação-FF2D20?style=for-the-badge&logo=automation-anywhere&logoColor=white" alt="Automação"/>
 
 ---
 ## Sobre o projeto
